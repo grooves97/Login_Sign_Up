@@ -1,0 +1,17 @@
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Login_Sign_Up.exe.config
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Login_Sign_Up.exe
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Login_Sign_Up.pdb
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Newtonsoft.Json.dll
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Twilio.dll
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Newtonsoft.Json.xml
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\bin\Debug\Twilio.xml
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\obj\Debug\Login_Sign_Up.csprojAssemblyReference.cache
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\obj\Debug\Login_Sign_Up.csproj.CoreCompileInputs.cache
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\obj\Debug\Login_Sign_Up.csproj.CopyComplete
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\obj\Debug\Login_Sign_Up.exe
+C:\Users\НурсеитовА\source\repos c#\Login_Sign_Up\Login_Sign_Up\obj\Debug\Login_Sign_Up.pdb
